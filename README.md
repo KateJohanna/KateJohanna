@@ -3,5 +3,5 @@
 - :books: My research work concerns the political economy of finance and development
 - :bulb: I am particularly interested in the topics of financialization, macroeconomic stabilization policy, state financing strategies, state-financial market     relationships, sustainable development
 - :construction: I am currently developing my programming skills in Python and improving my skills in web scraping and quantitative text analysis
-- :ski: In my free time I like to ski, swimm, do yoga, paint, read (mainly historical fiction), bake and learn about wine
+- :ski: In my free time I like to ski, swim, do yoga, paint, read (mainly historical fiction), bake and learn about wine
 - 📫 You can reach me at katharina.fleiner@unige.ch
