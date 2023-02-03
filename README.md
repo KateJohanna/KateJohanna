@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Katharina
 - :mortar_board: I’m a PhD Candidate in Political Science at the University of Geneva
 - :books: My research work concerns the political economy of finance and development
-- :bulb: I am particularly interested in the topics of financialization, macroeconomic stabilization policy, state financing strategies, state-financial market     relationships, sustainable development
+- :bulb: I am particularly interested in the topics of financialization, macro-stabilization policy, state financing strategies, state-financial market relations, response to economic crisis
 - :construction: I am currently developing my programming skills in Python and improving my skills in web scraping and quantitative text analysis
 - :ski: In my free time I like to ski, swim, do yoga, paint, read (mainly historical fiction), bake and learn about wine
 - 📫 You can reach me at katharina.fleiner@unige.ch
+- 🌐 My website is https://katharinafleiner.com
